@@ -4,3 +4,4 @@ pandas
 pathlib
 scipy
 plotly
+gunicorn
